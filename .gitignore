@@ -1,1 +1,4 @@
 .venv/
+DSLvenv/
+csv_files/
+.DS_Store
